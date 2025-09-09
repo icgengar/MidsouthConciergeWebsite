@@ -1,6 +1,10 @@
 #reviewHeader {
   filter: drop-shadow(2px 2px 13px rgb(0, 0, 0));
 }
+.carousel .carousel-control-next,
+.carousel .carousel-control-prev {
+  bottom: 46px !important;
+}
 .reviews {
   text-align: center;
   z-index: 1;
