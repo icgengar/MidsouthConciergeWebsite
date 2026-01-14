@@ -32,7 +32,7 @@
   z-index: 1;
 }
 .reviewOverlay {
-  background-color: rgba(62, 85, 93, 0.738) !important;
+  background-color: rgba(62, 85, 93, 0.406) !important;
   inset: 0;
   position:absolute;
   z-index:0;
@@ -62,7 +62,7 @@
   left: 0;
   height: 100%;
   width: 100%;
-  background-color: rgba(62, 85, 93, 0.738) !important;
+  background-color: rgba(62, 85, 93, 0.407) !important;
   z-index: 1;
 }
 .navbarContainer {
