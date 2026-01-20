@@ -6,6 +6,7 @@
   bottom: 46px !important;
 }
 .reviews {
+  margin-top: 2%;
   text-align: center;
   z-index: 1;
   color:aliceblue;
@@ -88,5 +89,10 @@ p {
 @media (min-width: 630px) {
   .companyLogo {
     width: 693px;
+  }
+}
+@media (max-width: 650px) {
+  .reviews {
+    font-size: 20px !important;
   }
 }
