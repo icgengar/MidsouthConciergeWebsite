@@ -84,6 +84,11 @@
   position: relative;
   overflow: hidden;
 }
+.commitmentSection {
+  background-color: #568285;
+  color: white;
+  box-shadow: 0 8px 20px rgba(0, 0, 0, 0.55);
+}
 
 p {
   margin-top:10px;
@@ -103,4 +108,5 @@ p {
   .reviews {
     font-size: 20px !important;
   }
+
 }
